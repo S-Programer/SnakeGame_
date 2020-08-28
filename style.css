@@ -1,0 +1,20 @@
+.container-1 {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-sg-1 {
+    display: flex; 
+    padding: 0px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.flex-box-sg-1 div {
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
